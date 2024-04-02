@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MohamedHusseinTammaa
-- 👀 I’m interested in data science
+- 👀 I’m interested in software 
 - 🌱 I’m currently studying computer science 
