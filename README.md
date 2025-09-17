@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedHusseinTammaa&show_icons=true&locale=en&layout=compact" alt="MohamedHusseinTammaa" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedhusseintammaa&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedhusseintammaa)](https://git.io/streak-stats)
