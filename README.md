@@ -30,6 +30,5 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedHusseinTammaa&show_icons=true&locale=en&layout=compact" alt="MohamedHusseinTammaa" /></p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhusseintammaa&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedhusseintammaa)](https://git.io/streak-stats)
