@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedHusseinTammaa
 - 👀 I’m interested in software 
-- 🌱 I’m currently studying computer science
+- 🌱 I finished studying Computer Science 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedHusseinTammaa&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedHusseinTammaa" /> </p>
